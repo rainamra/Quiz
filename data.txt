@@ -1,0 +1,11 @@
+ID#Name#Position#SalaryAmount
+S0001#Garry#Staff#45000000
+S0002#James#Staff#50000000
+S0004#Judith#Manager#107000000
+S0003#Christy#Officer#85000000
+S0005#Cen#Manager#127000000
+S0006#Raina#Manager#117000000
+S0007#Joce#Staff#40000000
+S0008#Bently#Officer#85000000
+S0009#Ali#Staff#60000000
+S00010#Ray#Officer#85000000
